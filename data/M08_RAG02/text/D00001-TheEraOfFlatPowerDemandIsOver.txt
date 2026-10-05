@@ -1,0 +1,813 @@
+PROJECT SPONSORED BY
+
+The Era of Flat Power Demand is Over
+
+John D. Wilson and Zach Zimmerman
+
+DECEMBER 2023Section
+
+EXECUTIVE SUMMARY
+
+Findings, Context and Implications
+
+2$630 Billion in Near-Term Investment in “Large Loads” is Increasing Expectations for Load Growth
+
+THE STORY IS SIMPLE …
+
+AND THE FORECASTS ARE SHOCKING …
+
+Over the past year, grid planners nearly doubled the 5-year load growth forecast.
+
+5-year Nationwide Growth
+
+• The nationwide forecast of electricity demand shot up from 2.6% to 4.7% growth over the next five
+
+Forecast
+
+years, as reflected in 2023 FERC filings.
+
+• Grid planners forecast peak demand growth of 38 gigawatts (GW) through 2028, requiring rapid
+
+planning and construction of new generation and transmission.
+
+• This is likely an underestimate: Several more recent updates are adding additional GWs to that
+
+30
+
+forecast. Next year’s forecast is likely to show an even higher nationwide growth rate.
+
+The main drivers are investment in new manufacturing, industrial, and data center facilities.
+
+20
+
+• Since 2021, commitments for industrial and manufacturing facilities have totaled about $481 billion,
+
+and over 200 manufacturing facilities have been announced this past year.
+
+Forecast
+
+Forecast
+
+• Data center growth is forecast to exceed $150 billion through 2028.
+
+10
+
+2028 Peak: 835 GW
+
+2028 Peak: 852 GW
+
+The U.S. electric grid is not prepared for significant load growth.
+
+Summer Peak Demand Growth (GW)
+
+• The U.S. installed 1,700 miles of new high-voltage transmission miles per year on average in the first
+
+0
+
+2022 Forecast 2023 Forecast
+
+half of the 2010s but dropped to only 645 miles per year on average in the second half of the 2010s.
+
+• Low transfer capability between regions is a key risk for reliability if load growth outpaces
+
+deployment of new generation in some regions.
+
+3A Scramble to Reflect Growing Load
+
+NERC 10-year Load Growth Forecast Trend
+
+2%
+
+Over the past decade, grid planners have been forecasting a mere 0.5% annual growth rate, as summarized by NERC.
+
+?
+
+Yet in 2023, annual peak demand growth is up to at least 0.9%, driven by data centers, industrial facilities, and other near-term investments. This is likely to be an underestimate:
+
+National 5-year Forecast Growth
+
+• Since these forecasts were filed with FERC, utilities like Puget Sound Electric, Duke
+
+Energy, Georgia Power Company and Tennessee Valley Authority have stated that their load expectations have grown even higher.
+
+1%
+
+• Some planning area forecasts, like MISO, don’t clearly explain how large load
+
+development will impact peak demand. In contrast, Georgia Power and PJM’s latest load forecasts reflect increases in industrial and data center investment, respectively.
+
+• Utilities such as Arizona Public Service and Portland General Electric are factoring in
+
+10-year Annual Forecast Growth (CAGR)
+
+the impacts of higher temperatures and extreme weather events on future load. These practices are far from universal – when other utilities adopt these practices, load forecasts will increase.
+
+0%
+
+1990 1995 2000 2005 2010 2015 2020 2025
+
+SOURCE | NERC, 2022 Long-Term Reliability Assessment (December 2022), p. 20 and
+
+Supplemental Table F.
+
+As several regional profiles show, since filing these data with FERC, planners are continuing to increase their near-term expectations for load growth. Annual peak demand growth forecasts appear headed for growth rates that are double or even triple those in recent years.
+
+4In just one year, the forecast of cumulative electricity growth over the next five years increased from 2.6% to 4.7%. Since their 2023 FERC load forecast filings, several major utilities have further increased near-term electricity demand forecasts.
+
+It may take only one or two years to connect new load to the grid, while it may take over four years to bring new generation online and even longer to build new transmission connections between regions to enable power sharing during peak periods.
+
+Challenges in the New Era of Power Demand Growth
+
+Ample generation resources are under development across the country, but projects are often bogged down in technical review processes that were built for a different age and different technologies.
+
+CONTINUED ON NEXT PAGE
+
+It’s worrisome that a resurgent American manufacturing sector may face headwinds from the limited ability of the nation’s electricity systems to respond. Electricity systems need to supply new generation, connect that generation to load, and – of course – connect new load to the system. There are real risks that some regions may miss out on economic development opportunities because the grid can’t keep up.
+
+Meeting the electricity requirements of new manufacturing and data centers through new, nearby generation could result in capital investments of billions of dollars per GW of new load. A more valuable and less costly approach to ensuring reliability is ensure the same reliability with increased transmission capacity to transfer power from one region to another. Capacity delivered through inter-regional transmission is likely to cost less than $300 million per GW of new load. With this added reliability, less new generation is required and it doesn't need to be located close to new facilities.
+
+SOURCES | Edison Electric Institute, EEI Industry Capital Expenditures with Functional Detail, published October 2021, September 2022 and September 2023.
+
+5Transmission investments are a particular challenge. Investor-owned utility investment in transmission to serve new load has actually decreased over the past three years, according to data from Edison Electric Institute. In 2021, expansion-related transmission capital expenditures were forecast at $9.2 billion but declined to $8.8 billion for 2023.
+
+Challenges in the New Era of Power Demand Growth
+
+CONTINUED FROM PREVIOUS PAGE
+
+With 38 GW (or more) of new electricity demand likely to come online during the next five years, transmission investments need to increase just to keep up with demand. Transmission takes years to build, and current planning and regulatory practices make inter-regional transmission particularly difficult to build. Even though investing in transmission could save tens of billions of dollars in bringing on the new 38 GW of electricity demand, changes in policy and practice are required across the country to make this possible.
+
+The drivers of electricity demand growth are diverse:
+
+• Federal legislation encouraging ‘domestic content’ is leading to increased industrial load;
+
+• Data center growth is being supercharged by the rise of artificial intelligence;
+
+• Electrification of transportation and buildings is building momentum, already the
+
+dominant source of growth in some regions; and
+
+• Emerging investments in hydrogen fuel plants could emerge as a major factor in future
+
+electric load forecasts.
+
+• Increases in the frequency and severity of extreme weather events is driving record peak
+
+demands in many regions.
+
+If grid planners are not accounting for these drivers, load forecasts will be too conservative, and the system will not be ready to meet growth in electricity demand. Transmission planners need long-term forecasts of both electricity demand and sources of electricity supply to ensure sufficient transmission will be available when and where it is needed. Such a failure of planning could have real consequences for investments, jobs and system reliability for all electric customers.
+
+6Section
+
+SECTION ONE
+
+Overviews of the Key Drivers of Load
+
+7… a surge in data center and industrial development caused sudden, shockingly large increases in 5-year load growth expectations.
+
+Data Centers and Industrial Facilities Driving Load Growth
+
+Industrial
+
+Hydrogen
+
+Data Centers
+
+Facilities
+
+Plants Electrification
+
+For the past several years, numerous load forecasts have identified general economic growth, population growth, temperature trends, and electrification (building and transportation) as drivers of load growth.
+
+ERCOT ✓ ✓
+
+PJM ✓
+
+However, beginning in 2022 and especially in 2023, a surge in data center and industrial development caused sudden, shockingly large increases in 5-year load growth expectations.
+
+Duke Energy ✓ ✓
+
+Georgia Power ✓ ✓
+
+NYISO ✓ ✓
+
+For seven of the load forecasts examined in this report, data centers (including crypto and AI) and industrial facilities (mainly battery and automotive sectors, but also hydrogen plants) are the key drivers of this sudden surge in load growth expectations. For planning areas anticipating gigawatt-scale load growth, these are the key drivers.
+
+Arizona Public Service ✓ ✓
+
+CAISO ✓
+
+Other growth drivers, including building (heat pumps, water heaters) and transportation electrification (EV charging), tend to be less volatile and more impactful in the 2030s.
+
+Portland General Electric ✓ ✓
+
+As more utilities and planning areas update their load forecasts over the next several months, it is possible that tens of gigawatts of load growth may be added to near-term load forecasts.
+
+8Three Regions Hosting Most New Industrial Load
+
+Announced Manufacturing Facilities since August 2022
+
+According to the U.S. Department of Energy, over 200 new manufacturing facilities for transportation and clean energy industries have been announced since the Inflation Reduction Act (IRA) was passed. These facilities represent over $100 billion in new investment.
+
+These investments are concentrated in the following planning areas:
+
+• Southeast, especially Georgia and the Carolinas
+
+• MISO, especially Michigan and Indiana
+
+• Southwest, especially Arizona and Nevada
+
+Near-term load growth associated with these facilities is appearing in several of these regions (Georgia, the Carolinas, and Arizona), but does not yet appear in MISO or Nevada’s load forecasts.
+
+SOURCE | U.S. Department of Energy, Building America’s Clean Energy Future (accessed
+
+November 16, 2023).
+
+9By 2030, BCG expects energy use to grow from 126 TWh to 335 TWh, or demand of 17 GW to 45 GW.
+
+Load Forecasts May Be Understating Data Center Load Growth
+
+>60% of Data Centers Expected in MISO, CAISO, PJM, and Southeast by 2027
+
+20%
+
+Northwest
+
+500
+
+MISO
+
+800
+
+According to the Boston Consulting Group (BCG), data centers currently represent 2.5% of U.S. electricity consumption. By 2030, BCG expects energy use to grow from 126 TWh to 335 TWh, or demand of 17 GW to 45 GW.
+
+ISO-NE
+
+2200
+
+1100 120%
+
+20%
+
+NYISO
+
+SPP
+
+1900
+
+PJM
+
+70% 130%
+
+2300
+
+According to JLL, siting for “power hungry” data centers depends on land and power availability. Data center growth is forecast to exceed $150 billion through 2028.
+
+South
+
+MISO
+
+west
+
+120%
+
+200
+
+PJM
+
+CAISO
+
+130%
+
+South east
+
+120%
+
+900
+
+New generative artificial intelligence (GenAI) is a significant driver of BCG’s estimate, with 2 GW of GenAI-related load in the base case and possibly an additional 7 GW of GenAI load online by 2030. At this higher end, BCG estimates that data centers could consume 7.5% of all electricity in the U.S.
+
+ERCOT
+
+1600
+
+120%
+
+©2022 BCG Analysis
+
+1400 120%
+
+Current MW
+
+Seven case studies in this report identify data centers as one driver of near- term load growth. Forecasts of 5-year growth vary: BCG projects 13 GW, while Schneider Electric’s 9 GW forecast anticipates further efficiency gains.
+
+Growth by 2027
+
+NOTE | The current MW by ISO breaks up total US data center power capacity (-13GW) in proportion to number of data centers, projected numbers are based on Arizton expected Power by region. Capacity by region from 2023-2027 was taken and broken down by current weighted average into the states represented in each of the territories. Source: Digital Infra Real Estate, Omdia, Anzton, BCG Analysis
+
+SOURCES | Arizton, US Data Center Construction Market – Industry Outlook and Forecast 2023-2028 (February 2023).
+
+However, neither MISO nor CAISO appear to have included substantial data center growth in their 2023 forecasts. Based on BCG’s forecast, this could mean 3-5 GW of load growth is missing from the national load growth forecast.
+
+Avelar, Victor et. al., The AI Disruption: Challenges and Guidance for Data Center Design (September 2023). Boston Consulting Group, The Impact of GenAI on Electricity (September 2022). JLL, North America Data Center Report (H1 2023). Mordor Intelligence, U.S. Data Center Construction Market Size (2023).
+
+10Since 2019, the Company has connected 75 data centers with an eventual capacity of 3 GW.
+
+Virginia Data Centers Driving Gigawatt-Scale Load Growth
+
+As discussed later in this report, PJM’s load forecasts and transmission plans are evidence of rapid growth in the data center market. Ground zero for this growth is in Loudoun County, Virginia – “Data Center Alley.”
+
+According to the Virginia Economic Development Partnership, “Virginia hosts the largest data center market in the world and is home to more than 35% (~150) of all known hyperscale data centers worldwide.”
+
+Much of this load is served by Dominion Energy Virginia. Dominion describes the impact as follows:
+
+“The data center industry is one of the fastest growing industries worldwide. In the Company’s service territory, the industry has grown on average 0.5 GW a year in the last three years. Since 2019, the Company has connected 75 data centers with an eventual capacity of 3 GW. These data centers will ramp up to this capacity over time, so the Company expects this growth to materialize over the next 3 to 5 years.”
+
+SOURCES | Dominion Energy Virginia, 2023 Integrated Resource Plan (May 1, 2023), Virginia State Corporation
+
+“The big drivers of current and future growth include: migration to the cloud as companies outsource information technology functions, smartphone technology and apps, 5G technology, digitization of data, and artificial intelligence.”
+
+Commission Case No. PUR-2023-00066, p. 55. Virginia Economic Development Partnership, Data Centers (accessed November 2023).
+
+11A majority of the projects in the figure, 3.6 GW, are announced or planned, 50 times present capacity.
+
+Planned Hydrogen Fuel Plants Aren’t in Most Load Forecasts
+
+Planned or Operational Hydrogen Production Projects
+
+Federal hydrogen production incentives could lead to substantial new demand for power over the next few decades. However, hydrogen production is not currently a driver of growth in 5-year peak demand forecasts in most regions.
+
+The Inflation Reduction Act included a tax credit which provides up to $3 per kilogram of hydrogen produced and the DOE in October 2023 awarded $7 billion from the Bipartisan Infrastructure Law to seven different regional hydrogen hubs which are expected to increase hydrogen production 1000 times over today’s levels.
+
+The figure at right shows hydrogen production projects greater than 1 MW that are operational or have been announced as of May 2023. Installed capacity in the U.S. is currently 67 MW, equal to one orange bubble. A majority of the projects in the figure, 3.6 GW, are announced or planned, 50 times present capacity.
+
+Over two-thirds of the planned investments are in ERCOT and the Intermountain West (CO, UT, and WY). Almost 2 GW or just over 50 percent of the announced investments are in ERCOT, with the Intermountain West having planned 700 MW or approximately 20 percent of investments announced.
+
+SOURCES | DOE, U.S. National Clean Hydrogen Strategy and Roadmap (June 2023).
+
+DOE, Regional Clean Hydrogen Hubs Selections for Award Negotiations (accessed November 2023). DOE, Electrolyzer Installations in the United States (June 2, 2023), p. 1.
+
+However, other than NYISO, load forecasts don’t appear to be explicitly considering the implications of hydrogen fuel plants.
+
+12Section
+
+SECTION TWO
+
+Case Studies
+
+132022 Forecast
+
+2023 Forecast
+
+Increase
+
+Planning areas with greatest increase in summer 2028 peak demand Planning Areas with Sharpest Increase in 2023 Load Forecast
+
+Planning Area
+
+(GW)
+
+(GW)
+
+(GW)
+
+Percent Increase
+
+ERCOT 83.6 89.1 5.5 6.6%
+
+PJM 152.7 155.7 3.0 2.0%
+
+SPP 56.3 59.3 3.0 5.2%
+
+Not all regions of the country are reporting a sharp increase in the 2023 load forecast. Ten planning areas report most of the increase: 18 GW in higher summer peak demand forecast for 2028 compared to the prior year’s forecast.
+
+Duke Energy (North & South Carolina) 33.8 35.8 2.0 5.9%
+
+Eight of these planning areas are profiled on the following pages. Insufficient information for a profile was available for two of the planning areas – SPP and TVA.
+
+Georgia Power 16.2 17.2 1.0 6.4%
+
+• SPP has not published an analysis of its load forecast drivers. SPP has set
+
+NYISO 31.3 32.3 1.0 3.2%
+
+load records in each of the last few years, and its peak load has grown 10% since 2019.
+
+Arizona Public Service 8.6 9.5 0.9 10.9%
+
+• TVA’s integrated resource planning website indicates that information
+
+Tennessee Valley Authority 31.7 32.3 0.6 2.0%
+
+CAISO 49.3 49.8 0.5 1.1%
+
+about its load forecast is confidential. In a November 9th TVA Board meeting, CEO Jeff Lyash stated that TVA expects load growth of 1 GW per year for “at least” the next three years. This represents at least 2 GW more growth than TVA included in its 2023 FERC filing earlier this year.
+
+Puget Sound Energy 4.4 4.9 0.5 10.7%
+
+All other planning areas 367.2 366.6 -0.6 -0.2%
+
+Total 835.1 852.5 17.4 2.1%
+
+In addition to profiles of those eight planning areas, two other profiles are included. MISO’s profile discusses the large scale of load-driven expedited transmission system projects. Portland General Electric’s profile discusses a large mid-IRP update to its load forecast.
+
+14ERCOT
+
+7.4 GW Spike in New Large Loads
+
+ERCOT 2023 Load Forecast
+
+ERCOT’s 2028 summer peak forecast increased from 83.6 GW to 89.1 GW in the past year, a 6.6% increase. Even though ERCOT’s 2023 forecast is much larger than the 2022 forecast, it is actually similar to the 2020 forecast.
+
+85
+
+ERCOT is an independent system operator (ISO) that operates in Texas and is generally not subject to FERC jurisdiction. It has about 160 participating electric distribution utilities.
+
+80
+
+In 2018, ERCOT’s peak load record was 69.5 GW, this has grown by over 16 GW to 85.6 GW this summer. The record setting demand has been largely driven by industrial growth and extreme temperatures.
+
+75
+
+Large Flexible Loads
+
+Industrial
+
+All Other Load
+
+While ERCOT continues to forecast most types of load to remain relatively flat through 2028, its forecast for new large loads spiked up to 7.4 GW over the past year.
+
+Forecast Summer Peak Demand (GW)
+
+70
+
+2023 2024 2025 2026 2027
+
+This 7.4 GW load growth represents a 9% increase over forecast loads from all other customers. ERCOT states that it expects these new loads to come from industrial facilities and “large flexible loads” (which are “commonly” cryptocurrency miner data centers), in roughly equal parts.
+
+SOURCES | ERCOT, 2023 ERCOT System Planning Long-Term Hourly Peak Demand and Energy Forecast (January 2023), pp. 13-14.
+
+ERCOT, 2022 ERCOT System Planning Long-Term Hourly Peak Demand and Energy Forecast (January 2022), pp. 13-14. ERCOT, Summer 2023 Operational and Market Review, presentation to Board of Directors Meeting (October 17, 2023), Item 6, p. 6. NOTE | Since large flexible loads participate in demand response programs, ERCOT’s peak demand requirements does not fully include these loads.
+
+15PJM
+
+Unprecedented Data Center Growth
+
+PJM’s 2028 forecast increased from 152.7 GW to 155.7 GW in the past year, a 2% increase.
+
+PJM is a regional transmission organization (RTO) that operates in 13 states from New Jersey to Illinois and the District of Columbia. It has about 50 participating electric distribution utilities.
+
+PJM has “observed unprecedented data center load growth” in multiple areas, with the potential for “all remnant capacity on the transmission system” to be utilized, resulting in regional reliability issues.
+
+The vast majority of this load growth is in Loudon County, Virginia, served by Dominion Virginia. However, other utilities in PJM also expect increased load. For example, a single site in Frederick, Maryland could add 800 MW of load to Potomac Edison’s system.
+
+PJM’s forecast also identifies lesser amounts of load growth due to electric vehicles and other factors.
+
+SOURCES | PJM, Energy Transition in PJM: Resource Retirements, Replacements & Risks (February 24, 2023), p. 15.
+
+In response, PJM plans to “identify necessary long-lead [extra-high voltage] reinforcements with sufficient time to construct.”
+
+PJM, 2023 Load Forecast Supplement (January 2023), pp. 18-21. Stan Silwa and Michael Herman, PJM Planning Load Data Needs, presentation to PJM Load Analysis Subcommittee (June 26, 2023).
+
+Scott Benner, PJM Energy Transition presentation to Markets and Reliability Committee (February 16, 2023).
+
+16DUKE ENERGY NORTH AND SOUTH CAROLINA
+
+“Mega-Projects”
+
+The Duke Energy planning area 2028 forecast increased from 33.8 GW to 35.8 GW in the past year, a 5.9% increase.
+
+Duke Energy owns two operating companies in the Carolinas: Duke Energy Carolinas (DEC) and Duke Energy Progress (DEP). Each serves portions of both North and South Carolina. The Duke Energy planning area also includes several public power utilities.
+
+While Duke Energy's 2021 load forecast showed little growth from 2024 to 2028, in Spring 2023 it added about 1 GW and then in November it announced an additional GW in growth over the next five years. These growth expectations are driven by large site developments. Duke reports that this increase is attributable to the anticipated development of data centers, vehicle manufacturing, battery production, and associated supply chain “mega-projects.”
+
+Notably, when adding “mega-projects” to its 2023 forecast, Duke applied a “discount” of 30%-60% to its full load expectation for each individual development site to account for uncertainty and avoid double-counting.
+
+SOURCES | Duke Energy’s Integrated Resource Plans (IRPs), including the DEC 2020 (p. 238), DEP 2020 (p. 229),
+
+Duke Carolinas 2022 - Appendix F (pp. 20-21), Duke Carolinas 2023 - Appendix D (pp. 13-15, 25), and Glen Snider Supplemental Testimony (pp. 5-9).
+
+In comparison, Duke has not changed its near-term view of load impacts from EV charging and other trends affecting residential and commercial classes.
+
+17GEORGIA POWER
+
+The size of many of these projects far exceeds historical annual norms, with some individual projects surpassing 1,000 MW.
+
+In Late 2023, Adds 4 GW to Forecast
+
+The Georgia Power Company (GPC) planning area’s 2028 forecast increased from 16.2 GW to 17.2 GW in the past year, a 6.4% increase.
+
+Georgia Power is an investor-owned utility and the largest subsidiary of Southern Company serving customers in Georgia.
+
+In the past few months, GPC’s load forecast was updated to include nearly 4 GW of additional winter peak demand. GPC anticipates this load based on an “influx of new businesses coming to Georgia, … which includes manufacturers, the [electric transportation] industry, data centers, and other businesses. The size of many of these projects far exceeds historical annual norms, with some individual projects surpassing 1,000 MW. In addition to the size of the large load presented by these new projects, many of the projects reflect a higher load factor and around-the-clock operations, which requires a substantial amount of generation and consistent energy delivery throughout the day and night as opposed to only during specific times.”
+
+Unlike many of the other utilities and grid operators described in this report, GPC maintains confidentiality regarding the relative contribution of the key drivers of increased load.
+
+SOURCES | Georgia Power Company, 2023 Integrated Resource Plan Update (February 24, 2023), pp. 6-10, and the Load and Energy Forecast Technical Appendix.
+
+18NYISO
+
+NYISO has received 890 MW of load requests from several data centers and two hydrogen plants with proposed in- service dates prior to 2026.
+
+Hydrogen Plants Contribute to Growth
+
+Sources of NYISO Load Growth 2023-2028
+
+The NYISO planning area’s 2028 forecast increased from 31.3 GW to 32.3 GW in the past year, a 3.2% increase.
+
+1,500
+
+NYISO is an independent system operator comprised of about 17 investor- owned and public utilities in New York.
+
+1,250
+
+1,000
+
+Prior to its 2023 forecast, the NYISO did not specifically identify “large loads” as a load forecast driver.
+
+750
+
+500
+
+Forecast Increase to
+
+250
+
+Summer Peak Demand (MW)
+
+NYISO’s 2023 load forecast reports that, “Baseline energy and coincident peak demand increases significantly throughout the forecast period, driven largely by large load project growth in the early forecast years, and electrification of space heating, non-weather sensitive appliances, and electric vehicle charging in the outer forecast years.“ However, total load is not expected to grow much due to energy efficiency and behind-the-meter resources.
+
+0
+
+2021 Forecast 2022 Forecast 2023 Forecast
+
+Large Loads Transportation Electrification Building Electrification
+
+NYISO has received 890 MW of load requests from several data centers and two hydrogen plants with proposed in-service dates prior to 2026. This is approximately equal to forecast large loads for 2023-2028.
+
+SOURCES | NYISO, 2021 Load & Capacity Data (April 2021), p. 21.
+
+NYISO, 2022 Load & Capacity Data (April 2022), p. 21. NYISO, 2023 Load & Capacity Data (April 2023), pp. 2, 23, 131 NYISO, 2023-2032 Comprehensive Reliability Plan (November 2023), pp. 33-34.
+
+The graph at right focuses on summer peak demand, consistent with the rest of this report. NYISO’s winter peak forecast includes a much stronger impact of building electrification due to plans to electrify space heating.
+
+19ARIZONA PUBLIC SERVICE
+
+APS forecasts “that existing transmission capacity will be consumed before the end of the decade.”
+
+20% Near-Term Growth
+
+The Arizona Public Service planning area’s 2028 forecast increased from 8.6 GW to 9.5 GW in the past year, a 10.9% increase.
+
+Arizona Public Service (APS) is an investor-owned utility serving customers in Arizona. The APS planning area also includes several public power utilities.
+
+APS forecasts that the rapid influx of large commercial, industrial, and data center load will add about 1.8 GW of load by 2028. This is more than 20% load growth over five years. APS forecasts “that existing transmission capacity will be consumed before the end of the decade.”
+
+APS also expects electric vehicle adoption to be a major factor in load growth, but with the effects becoming substantial only in the 2030s.
+
+APS also highlights more hours of high temperatures and higher maximum summer temperatures as a factor driving the peak demand forecast.
+
+SOURCES | APS, 2023 Integrated Resource Plan (November 2023), pp. 18, 29.
+
+Ross Mohr, 2023 Load Forecast Update, presentation to APS Resource Planning Advisory Council (March 1, 2023).
+
+20CAISO The CEC identifies the key drivers of the increase in forecast load as “California's efforts to decarbonize the transportation and building sectors by switching from fossil fuels to electricity.”
+
+Electrification Driving Load Growth
+
+The CAISO’s 2028 forecast increased from 49.3 GW to 49.8 GW in the past year, a 1.1% increase.
+
+CAISO is an independent system operator comprised of over 20 transmission owners, including California’s 3 large investor-owned utilities. The California Energy Commission (CEC) develops the load forecasts for CAISO and other electric utilities.
+
+The CEC identifies the key drivers of the increase in forecast load as “California's efforts to decarbonize the transportation and building sectors by switching from fossil fuels to electricity.” The CEC highlights the importance of new regulations as well as updated forecasts for transportation and building electrification.
+
+In contrast to other areas highlighted in this report, data centers and manufacturing are not key drivers of California’s recent load forecast updates. Data center development is occurring in Silicon Valley, but it accounts for less than 0.3 GW of anticipated load growth.
+
+SOURCES | California Energy Commission, Final 2022 Integrated Energy Policy Report Update (February 2023), pp. 3-4, 46-49, 67.
+
+NOTE | CEC’s “planning” scenario reflects average peak demand, similar to most other forecasts in this report. The “local reliability” scenario reflects a 1-in-10 year maximum peak demand.
+
+California Energy Commission, Silicon Valley Power block adjustment, provided in response to an information request (November 2023).
+
+21PUGET SOUND ENERGY
+
+Lack of public information make it unclear what has driven PSE’s more recent increase in load growth expectations.
+
+Electrification and Climate-Driven Growth
+
+The Puget Sound Energy planning area’s 2028 forecast increased from 4.4 GW to 4.9 GW in the past year, a 10.7% increase.
+
+Puget Sound Energy (PSE) is an investor-owned utility serving customers in the Seattle Metro Area.
+
+PSE’s most recent load forecast was published in July 2022, and showed a roughly 0.4 GW increase relative to its 2021 IRP forecast.
+
+Major updates to PSE’s load forecast in 2022 included climate trends and electric vehicle charging. PSE’s climate trends are reflected in both AC saturation growth and the impact of warmer days on cooling and heating demand.
+
+Confusingly, the PSE 2023 forecast dates to July 2022, and thus corresponds (roughly) to PSE’s 2022 filing with FERC, and not to the larger 2023 filing. Lack of public information make it unclear what has driven PSE’s more recent increase in load growth expectations.
+
+SOURCES | PSE, 2023 Electric Progress Report (March 31, 2023), ch. 6, p. 18.
+
+Stephanie Price, Electric Results presentation to PSE’s Demand Forecast Meeting for Integrated Resource Plan (IRP) Stakeholders (July 12, 2022), p. 27.
+
+22MISO
+
+New Load Connections More than Quadrupled
+
+Expedited Project Review (EPR) requests and drivers
+
+The MISO planning area’s 2028 forecast increased from 132.1 GW to 132.5 GW in the past year, a 0.32% increase.
+
+MISO is an independent system operator that operates in 15 states from Minnesota to Louisiana. It has about 60 participating electric distribution utilities.
+
+In its current transmission planning cycle MISO is advancing a potentially record setting $9.1 billion transmission expansion plan.
+
+One reason for the large expansion plan is the scale of recent Expedited Project Review (EPR) requests. Since 2021, EPR requests have been driven by new load connections. EPR projects driven by new load connections have more than quadrupled since 2020 and almost doubled since last year.
+
+According to MISO’s executive director for transmission planning, MISO’s members expect “that we will see these larger industrial loads, commercial loads or things like data centers, hydrogen facilities, drive large load additions.” These factors are apparent from investment forecasts discussed earlier in this report.
+
+SOURCES | MISO, Preliminary MTEP23 Review System Planning Committee of the Board of Directors (September 12, 2023), p. 7.
+
+MISO, 2023 Regional Resource Assessment, (November 2023), p. 16. MISO, MISO Futures Report: Series 1A, (November 2023), pp. 27, 31, 38-46. Ethan Howland, “MISO: 49 GW has received interconnection approval, but projects face major delays,” Utility Dive (September 14, 2023).
+
+MISO’s most recent load forecast is a 2023 update of its 2019 forecast using new load shapes, considering electrification but not new large loads. Dependence on members’ self-reported load forecasts may introduce a lag to the response of MISO’s load forecast to the increased pace of load connections.
+
+23PORTLAND GENERAL ELECTRIC
+
+PGE roughly doubled its 5-year growth forecast from 275 MW to 525 MW in summer peak demand.
+
+Near-term Growth Forecast Just Doubled
+
+The Portland General Electric planning area’s 2028 forecast increased from 4.38 GW to 4.48 GW in the past year, a 2.4% increase.
+
+Portland General Electric (PGE) is an investor-owned utility serving customers in Oregon. The PGE planning area appears to also include some public utilities.
+
+In July 2023, PGE roughly doubled its 5-year growth forecast from 275 MW to 525 MW in summer peak demand.
+
+PGE explains that “In the past 18 months, PGE’s industrial class load has grown rapidly, at a rate of 10.6% in 2022 and 8.3% in the first quarter of 2023. The primary driver of PGE’s increased load forecast is … rapid industrial growth and growing demand of data centers in PGE’s service territory.”
+
+In contrast, PGE’s forecasts slightly declining load for residential and commercial classes. Although building and transportation electrification are contributing significant new loads, projected energy efficiency savings more than offsets those sources of demand.
+
+NOTE | Electricity planners in the northwest conventionally use the metric MWa (average MW) to measure energy demand.
+
+SOURCES | PGE, Clean Energy Plan and Integrated Resource Plan 2023 (Errata filing, July 6, 2023),
+
+pp. 111-112, 117, 469, 471. PGE, Clean Energy Plan and Integrated Resource Plan Addendum: Portfolio Analysis Refresh (July
+
+7, 2023), p. 5-7, 15-18.
+
+24Section
+
+Appendix
+
+25Load Growth Varies Across the Country
+
+5-Year Load Growth vs Planning Area Peak Demand Showing planning areas whose load forecast has increased since 2022
+
+25%
+
+20%
+
+APS
+
+Load growth is not uniform across the country. Some utilities are forecasting load to decline over the next five years, while some small utilities are expecting load growth of 60% or even close to an increase of 100% (not shown in the graph).
+
+15%
+
+SPP
+
+10%
+
+ERCOT
+
+While most planning areas show increased load growth in 2023 filings, a few planning areas show reduced load growth compared to 2022 (not shown in the graph). For example, ERCOT’s 2028 summer peak forecast surged 6.6% in 2023, but MISO’s barely budged, increasing only 0.3%.
+
+GPC CAISO
+
+PJM Duke
+
+NATIONAL AVERAGE: 4.8% Load Growth
+
+5%
+
+Based on this report’s review of selected planning area forecasts, growth may be underestimated for two reasons:
+
+NYISO, TVA
+
+MISO
+
+• The 2023 load forecasts filed with FERC were generally produced in early 2023 or even
+
+0%
+
+late 2022. Updates to load forecasts produced later in 2023 have shown further GW- scale increases in forecast load over the next five years.
+
+-5%
+
+5-Year Load Growth Forecast
+
+The bubbles are scaled to represent the increase in the planning area’s 2023
+
+• This effect may be enhanced in some planning areas, like SPP and MISO, that mainly
+
+-10%
+
+0 25 50 75 100 125 150
+
+rely on member utilities for load forecasts. Those forecasts may have been produced in mid-2022 or may not reflect new load where there is uncertainty over which utility will be the host.
+
+2023 Summer Peak Forecast (GW)
+
+SOURCES | MISO, MISO Futures Report: Series 1A, (November 2023), p. 31.
+
+SPP, Transmission Planning for Load Growth, presentation to ESWG (November 2, 2023).
+
+Some planning areas, such as SPP and MISO, are managing uncertainty by considering alternate scenarios of future growth in planning activities. While SPP’s futures are not developed, MISO’s most aggressive future includes additional load growth of about 10% over the next 5 years.
+
+262023 Forecast Regional 5-year CAGR
+
+Growth Rates Increasing Almost Everywhere
+
+1.61%
+
+SPP
+
+1.60%
+
+ERCOT
+
+From 2022 to 2023, the 5-year national forecast for peak demand shot up by about 50% -- from 0.63% annual growth to 0.93%.
+
+1.55%
+
+Southwest
+
+1.54%
+
+Northwest
+
+Annual growth rates are measured using the Compound Annual Growth Rate (CAGR). The CAGR represents the rate at which the initial load forecast or current load needs to grow annually to match the forecasted load in the final year assuming an annually compounded growth rate.
+
+1.25%
+
+CAISO
+
+0.88%
+
+CAGRs can be useful to compare forecasted load growth of different utilities regardless of the size of the utility.
+
+PJM
+
+0.87%
+
+ISO-NE
+
+0.71%
+
+Southeast
+
+The only region where the CAGR decreased in 2023 is MISO. However, as discussed in the MISO profile, expedited new load projects are flooding MISO’s planning process and should drive an increase in future load forecasts.
+
+2023 U.S. 5-year CAGR: 0.93%
+
+NOTE | The “Southwest” region includes some utilities that might be characterized as central western.
+
+0.16%
+
+NYISO
+
+2023
+
+2022
+
+0.15%
+
+2022 U.S. 5-year CAGR: 0.58%
+
+MISO
+
+0.0% 0.5% 1.0% 1.5%
+
+27American Manufacturing Driving a Return to Historic Load Growth Rates
+
+Forecasts by national modeling experts such as McKinsey and Princeton’s Zero Lab suggest that electrification and industrial growth will increase annual electric system growth to 1.5%.
+
+The growth in American manufacturing is propelled by federal domestic content requirements, as well as promotion of private investment through the Bipartisan Investment Law, the CHIPS and Science Act, and the Inflation Reduction Act. Federal estimates indicate that since 2021 about $481 billion in commitments for industrial and manufacturing facilities have been announced.
+
+SOURCES | McKinsey & Company, Energy Transition in the US Power Sector and its Implications for MISO (December 2022), p. 5.
+
+White House, Invest.gov (accessed November 17, 2023). ZERO LAB, Climate Progress and the 117th Congress (July 2023), p. 81.
+
+28Sources and Methods
+
+The primary source for the load forecasts in this report are data filed by planning area authorities on FERC Form 714. The most recent data were published by early fall 2023.
+
+Data filed on FERC Form 714 requires significant effort to obtain and interpret correctly. Grid Strategies appreciates the assistance of Catalyst Cooperative in making recent FERC 714 data available in an accessible format.
+
+Because FERC does not appear to review load forecast data filed on Form 714 for accuracy, numerous errors, such as reporting data using the wrong units, are apparent in the planning areas’ filings.
+
+Another challenge is that some planning areas are included within other planning areas. Including “sub-areas” in regional and national totals would effectively double-count some loads. Since FERC does not publish an official rollup of area data that addresses this issue, Grid Strategies staff used professional judgement to avoid such double-counting.
+
+Many, but not all, planning areas make information on their load forecasts publicly available. Cited load forecast or related materials were obtained from publicly-available sources. For most planning areas discussed in this report, Grid Strategies staff reached out to load forecast experts at the relevant utility or system operator to request further detail.
+
+Grid Strategies chose to focus mainly on summer peak demand data in this report for two reasons. First, peak demand is most closely related to the need for transmission system buildout. Second, summer peak demand is larger at the national level. Focusing on summer peak demand may obscure important planning issues related to winter peak demand and overall energy resources. When considering the load forecast of any region or utility, Grid Strategies would take a more expansive view.
+
+29

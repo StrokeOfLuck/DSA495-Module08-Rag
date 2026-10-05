@@ -1,0 +1,515 @@
+Electric Vehicle Scenario Analysis Workshop Series
+
+September - December 2021
+
+Sponsors:
+
+Facilitators:
+
+Andy Glover, Vice President
+
+CoBank’s Beacon Group Tamra Reynolds, Managing Director
+
+Luke Gaines, Vice President
+
+Dean Church, Vice President
+
+CoBank’s Knowledge Exchange Division Teri Viswanath, Lead Economist
+
+Presenters:
+
+Teri Viswanath, Lead Economist
+
+Other Participants:
+
+S T R AT E G I C P L A N N I N G A N D
+
+Justin Brown Vaughn, Credit Officer
+
+FA C I L I TAT I O N S E R V I C E SS T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+EXECUTIVE SUMMARY
+
+Car manufacturers are investing billions of dollars into electric vehicles (EVs), and while there is a lot of information available to address the EV topic for urban and suburban communities, there is little focused specifically on the challenges associated with the rural communities that electric cooperatives serve. As a result, CoBank hosted eight EV workshops, with more than 70 electric cooperatives, to help them consider the impact EVs will have on their systems and their rural communities. The participants engaged in conversation about the EV landscape from the perspective of the electric distribution industry and discussed the positives and negatives of a proactive and a reactive approach to EV preparation for their communities.
+
+The collective sharing of knowledge and experience not only allowed participants to come away with a better understanding of the challenges and opportunities that EVs present to the electric distribution industry, but also helped them have a better idea of how to plan and prioritize their own EV objectives on behalf of their members’ interests going forward.
+
+Key Workshop Takeaways:
+
+• While the general speed of EV adoption appears to be accelerating, the speed of local adoption is far from clear and will likely be different for each electric cooperative. Yet most participants acknowledged that EVs are emerging as a material part of the American fleet.
+
+• It was generally agreed that rate design was a critical element for co-op EV preparedness, with the view that it is better to send the right price signal for charging at the start of member ownership than to attempt to course correct. A time-of-use rate was the most common approach voiced in the workshops. Further conversations with G&Ts and regulatory bodies may be necessary to address rate structures for EVs.
+
+• Cooperatives are starting to consider residential and commercial EV adoption with system upgrades and work plans. This was more prominent in territories adjacent to major cities and states or regions more sensitive to environmental issues.
+
+• Investment returns on owning charging stations are questionable. Consequently, owning might not be the right choice for every cooperative. That said, grants are available, and more visible charging stations will likely improve adoption rates by reducing range anxiety.
+
+• Co-ops should control the EV message. They should be the trusted advisor to members with thoughtful marketing and education. This will help develop positive EV usage habits among members and avoid problems that could be similar to those seen with rooftop solar marketers.
+
+Each participant will take different actions going forward. Most favored a balance of approaching member relations and being the trusted energy advisor more proactively and making long-term infrastructure investments more reactively. Most importantly, the participants took the time to think strategically about a disruptive technology and will be better equipped to manage the EV challenges and opportunities that lie ahead.
+
+2S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+COBANK EV WORKSHOP SERIES REPORT
+
+CoBank hosted eight electric vehicle (EV) workshops in the second half of 2021, with more than 70 electric cooperatives participating, to help them consider the impact EVs will have on their systems and their rural communities.
+
+In these workshops, participants engaged in thorough conversation of the EV landscape from the perspective of the electric distribution industry, heard an update from CoBank’s Knowledge Exchange Division (KED) on the EV landscape from a national perspective, and discussed the positives and negatives (pros and cons) associated with two primary scenarios (a proactive and a reactive approach to key EV considerations).
+
+One of the key takeaways for the participants in each session was the collective sharing of knowledge and experience. This not only allowed everyone to come away with a better understanding of the challenges and opportunities that EVs present to the electric distribution industry, but also helped them have a better idea of how to plan and prioritize their own EV objectives on behalf of their members’ interests going forward.
+
+In this report, we attempt to summarize the key takeaways from the EV landscape discussions and the proactive versus reactive scenario discussions. The KED report that was presented and discussed as a component of the workshop is also shared herein as an appendix.
+
+The EV Landscape for Electric Co-ops
+
+Each workshop began with a discussion about the political, economic, social, technological, legal, and environmental (PESTLE) assessment: the strategic framework used to assess the issues, concerns, and other factors surrounding EVs and electric cooperatives. This framework, along with a diverse participant group (directors, CEOs, CFOs, lawyers,
+
+3S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+VPs of engineering, and VPs of member relations), produced a thorough assessment of the EV landscape. Below is a summary of the primary issues identified from the pre-session PESTLE survey results and the ensuing discussions from the workshops (see Appendix A for more detail). Many issues could fall into multiple categories but were only placed in one category. Determining the appropriate category was not important; however, capturing the issue was.
+
+Political Issues (Summary):
+
+From an electric cooperative perspective, the political landscape both heavily influences and will be impacted by EV technology, manufacturing, and consumer adoption. Material time and attention has been allocated to EV policy considerations, as the range of issues discussed illustrates (see Appendix A for details), but it will continue to rapidly evolve, as at present, the EV industry and EV adoption appear reliant upon both regulatory support and accommodation at the local, state, and federal levels. There is concern because the political landscape can change quickly and developing relationships with officials takes time. However, being attuned at the local, state, and federal levels will help position co-ops to seize opportunities and influence decisions that will benefit members.
+
+Economic Issues (Summary):
+
+There is significant uncertainty regarding the economic landscape for EVs overall for electric co-ops. It’s appreciated that billions of dollars are being invested in EVs by the automobile manufacturing industry. Regardless of potential political incentives, it appears manufacturers are able to more cheaply produce a less complex base vehicle. Although the current US target market for EVs is higher end, the falling cost of batteries, improving functionality of a vehicle (vehicle to grid), and lower cost of maintenance are improving EV economics, which over time may improve the attractiveness of adoption for co-op members. For now, however, the true economic impact of EVs is unknown and is likely different for various communities. Electric co-ops will have to continue to research and analyze information as it becomes available. Each co-op’s approach to rate design, charging station ownership, and infrastructure build-out will be influenced by its individual needs and local economy.
+
+Social Issues (Summary):
+
+The change of behavior required to adopt an EV is a material, especially for electric co-op members who typically have less transportation flexibility. However, the level of change may vary depending on the geographic profile of a co-op (e.g., suburban and adjacent to a city, rural with a well-trafficked commuting or highway corridor, or simply rural). Electric co-ops can help address some of these behavioral changes as a trusted energy advisor for those who are interested. Thoughtful consideration of how this information is presented to members is important to avoid unintended messaging. It was recognized that the social aspect of EVs may be the most influential driver of adoption. Over time, electric co-ops will likely have the opportunity to influence members through ongoing communications. However, certain regions will have to be more sensitive to how the information is presented due to the political nature of EVs and the potential impact on certain industries.
+
+4S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+Technological Issues (Summary):
+
+Generally speaking, electric cooperative members place a higher level of technological demand on their transportation equipment given the conditions or use requirements of their transportation resources. The members tend to lean toward tried-and-true options when making these equipment choices. There is a perception that EV technology has not yet progressed to the point at which EVs check enough of the essential boxes to be highly desirable for general use. However, EV technology continues to evolve and improve. Most new EV models have an equivalent range to internal combustion engine (ICE) vehicles. EV options continue to expand as major car manufacturers, and new ones, commit billions of dollars to EVs. Charging times and infrastructure continue to make advancements. As national adoption increases and market dynamics play out, it is likely that EV equipment will become more standardized.
+
+Legal Issues (Summary):
+
+The legal landscape for EVs for electric co-ops was perceived as a lower level of general concern; however, a number of important concerns remain regarding revenue collection, appropriate corporate structures, and potential risk liability and need to be worked through and addressed to gain comfort in higher levels of EV adoption in their communities for both members and nonmembers. Proper legal consultation was encouraged before co-ops invest materially in public charging stations or residential installations.
+
+Environmental Issues (Summary):
+
+Overall, the environmental landscape for EVs in more rural communities is often one of suspicion. EVs are frequently viewed as a solution to an environmental problem and are therefore met with hesitation to provide support. While it is clear that EVs will reduce vehicle emissions, concerns have been raised about other environmental impacts. Solutions to car battery recycling are being explored, and the actual limitations associated with rare earth minerals are not fully known. Electric co-ops are fully aware that greater EV adoption will create a larger need for energy, but efforts to manage the increased load, especially with increasing levels of renewable energy resources, are driven by increasing concern about supply adequacy and capacity at higher levels of EV adoption.
+
+National EV Landscape
+
+A presentation from CoBank’s Knowledge Exchange Division (KED) on various national and international EV trends was shared with the participants. This information was used to help attendees reflect and expand their knowledge and awareness to support well-rounded discussions of a proactive and a reactive EV adoption scenario. This information can be made available upon request.
+
+5S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+Scenario Discussions
+
+With a thorough assessment of the EV landscape, participants were well equipped to engage in an assessment of the opposing scenarios of being proactive versus reactive when it comes to EVs, EV charging, and EV adoption overall. The discussion was structured to cover a number of categories (which are highlighted in italics). Generally, a pro for being “proactive” had a corresponding con for being “reactive” and vice versa. Therefore, the focus below will primarily be on pros for each scenario. A few examples shared by participants of proactive engagement are also included.
+
+Scenario 1: Proactive Pros
+
+Member Relations:
+
+• Establish/maintain a trusted advisor role:
+
+n Provide EV information and facts.
+
+n Be prepared to answer EV questions and/or have recommendations on equipment and installers.
+
+n Manage expectations (rates, savings, expenses, etc.).
+
+n Explain EV rate design, if applicable.
+
+• Help develop the charging habits of EV users.
+
+• Use the chance to control the message and avoid some issues that occurred with rooftop solar.
+
+• Learn and gather data from early adopters.
+
+• Establish and amend policies to account for EVs (line extensions, discounts, etc.).
+
+• Assist commercial and industrial members in their EV efforts.
+
+• Take advantage of the opportunity to engage with more and different members.
+
+• Lease or purchase EVs and/or charging stations for promotion and education.
+
+One of the simplest and most common ways that co-ops were engaging with their members was through their websites. Some co-ops had web pages dedicated to EV information, with financial examples or real-life experiences of employees and/or members. Others have established rebate programs to assist in identifying which members have EVs and to collect extra data from participating members. While many co-ops have leased or purchased EVs, a few co-ops have been more aggressive in their promotion by creating EV car clubs or providing free EV charging. On the commercial and industrial side, some co-ops had conducted surveys or actively interviewed these members to be better prepared to meet their EV needs.
+
+6S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+While educating members about EVs was widely accepted, promoting EVs did raise some concerns. With the political sensitivity around EVs and the potential effects on certain industries, some co-ops may want to avoid being seen as an EV promoter. Additionally, EV rate discounts or free charging can be viewed as only benefiting the wealthy EV owners at the other members’ expense.
+
+Economic Development:
+
+• Seek partnership for charging stations, and determine who is a partner and who is a competitor.
+
+• Establish a presence so the co-op has a “seat at the table” when development/EV issues are being discussed with local officials.
+
+• Use EV infrastructure or EV plans to assist in marketing to Environment Social Governance (ESG)-motivated companies.
+
+• Work with local car dealerships:
+
+n Are they promoting EVs or knowledgeable about EVs?
+
+n Do they have multiple EV options on their lots?
+
+n Are they prepared for EV service work or future loss of ICE service work?
+
+• Capture grant funds for co-ops or others willing to invest in the community.
+
+Involvement in local and statewide development can assist in determining if a cooperative should invest in charging stations. Co-ops may discover that there are plenty of other entities willing to invest in infrastructure and that co-op funds aren’t necessary. Involvement also assists the co-op in grid planning with better awareness of future installations.
+
+Several co-ops have begun conversations with local school boards about the electrification of their school buses. There are already proven success stories of providing healthier rides for children and a consistent and predictable new load for the co-op.
+
+EV Adoption Rate, Member and Revenue Growth, and Resources:
+
+• Investment (or grant funds) in charging infrastructure could ease range anxiety and increase adoption rate.
+
+• Having an established charging infrastructure and good EV rate design may attract new families and businesses.
+
+• Active marketing may improve the EV adoption rate and attract new members.
+
+• Charging stations and EV adoption can be new revenue sources.
+
+• Use partners’ resources as part of planning considerations (G&T, Touchstone, CoBank, etc.).
+
+7S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+Co-ops operate with limited resources, from both a financial and a human capital perspective. Website education and promotion is viewed as one of the most efficient uses of resources. Most return-on-investment (ROI) assessments on charging station investments have yielded poor results, as high utilization is needed and current adoption rates typically aren’t sufficient. Grant funds can significantly improve the ROI on charging stations. Additionally, some cooperatives view the charging stations as a sunk cost or loss leader to achieve better adoption. It is too early to determine the effects of investment in charging infrastructure and EV promotion on EV adoption.
+
+Rate Structure:
+
+• Early rate design can incentivize EV charging behavior (off-peak hours).
+
+• Co-ops should conduct analysis on whether a demand or time-of-use component to rates is necessary or appropriate.
+
+• In certain situations, discussions with G&T and/or public commissions position the co-op well for higher EV adoption.
+
+• Pilot programs can help determine the best rate or necessary rate adjustments.
+
+• Analysis can be completed to ensure retail rates align with wholesale rates.
+
+Many co-ops are using a time-of-use rate to incentivize charging behavior and to recoup expenses. A few co-ops have developed EV-specific rates or have a few rates from which members can choose. Co-ops have used data from pilot programs to tweak their rate designs for EVs. Others intend to use pilot programs to gather data for discussions with public commissions and G&Ts. While pilot programs can and have been useful, some have been unsuccessful and have created concerns about negative publicity.
+
+Grid Infrastructure:
+
+• Work with community leaders early, which will allow the co-op to better influence the locations for charging
+
+stations, and this will help manage capacity concerns and load management.
+
+• Consider where grid expansion will be needed to get a head start on planning and potential right-of-way acquisition.
+
+• Consider line extension policy and other relevant policy to ensure consistency and fairness.
+
+• Develop programs and strategies that will inform co-ops of EV owners and charging locations so appropriate planning can be accomplished.
+
+• Include EV upgrades in work plans.
+
+• Evaluate transmission constraints.
+
+• Work with builders, electricians, and developers to know what level of chargers are being installed and where.
+
+• Use EV ownership and charging location knowledge to help prevent system damage.
+
+8S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+Location knowledge of existing and future EV charging stations is vital to ensuring system capacity needs are met and system damage is avoided. Working with community leaders and businesses in the area is one way co-ops are staying knowledgeable. Some co-ops are using their supervisory control and data acquisition (SCADA) systems and analyzing meter data to determine which residences have EV chargers. Co-ops also offer charger rebates to incentivize members to notify them of a charger installation. Other co-ops have searched county DMV data for registered EVs.
+
+Scenario 2: Reactive Pros:
+
+Member Relations:
+
+• Avoid being seen as choosing favorites as it relates to the location of new charging stations.
+
+• Assume less liability risk of accidently giving the wrong advice about EVs and chargers.
+
+• Allow others to do the installs and sell the EV equipment so the co-ops can avoid being “married” to the customer on those items.
+
+• Learn from other co-ops and members.
+
+• Allows a co-op to react to members’ actual needs rather than guessing.
+
+• Avoid potentially creating a PR problem since current adoption is low and future local adoption is projected to be slow.
+
+A reactive approach may still include a web page and information but to a lesser degree. A potential concern about ignoring EVs is that early adopters are likely social media savvy and vocal, which could create problems for co- ops. Additionally, the co-op may establish a reputation as not being interested in EVs and later be left out of community discussions once EV adoption in the area starts to pick up.
+
+Resources, Grid Infrastructure, and Rate Structure:
+
+• Human and financial resources are less likely to be wasted.
+
+• The co-op can remain focused on higher-priority and more immediate needs.
+
+• Capital expenses related to EVs can be deferred.
+
+• Lower and slower EV adoption allows co-ops to adjust gradually over time.
+
+• A slower reactive approach is more likely to produce a successful rate structure on the first attempt.
+
+9S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+Waiting to make major investments can produce great clarity, but waiting too long to address EVs could result in higher costs (related to system damage) and a shorter time frame to make improvements. Additionally, grant funds will potentially not be as available in a few years. Striking the right balance will likely be different for each co-op.
+
+Regional Differences
+
+While each workshop provided new and different ideas, the key themes and issues have been captured above. There were a few regional differences to be noted:
+
+• Cooperatives with cold weather and rugged terrain will potentially face additional EV adoption concerns. Battery performance in extreme weather and on rugged terrain presents additional concerns for consumers.
+
+• Cooperatives that need to work through a public commission or G&T to better align their rate structures for EV adoption have an additional challenge. For some, this conversation is or could be considered urgent.
+
+• Cooperatives in regions heavily dependent on oil and gas or coal will likely face EV adoption resistance. Communication in these areas may need to be carefully crafted and well thought out.
+
+Conclusion
+
+Participants were thoroughly engaged in the PESTLE assessment and scenario analysis and often built off of each other’s comments. The workshop participants learned from each other and built a shared sense of understanding. While each participant will take different actions going forward, most favored a balance between the proactive and reactive approaches; more specifically, most favored approaching member relations and being the trusted energy advisor more proactively and making long-term infrastructure investments more reactively. Most importantly, the participants took the time to think strategically about a disruptive technology and engagement with outspoken members who are inclined to adopt early and are, as a result, better equipped to manage the EV challenges and opportunities that lie ahead.
+
+10S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+APPENDIX A – EV Landscape Discussion
+
+The EV Landscape for Electric Cooperatives
+
+What follows is a listing of the primary issues, concerns, notes and observations from the PESTLE discussions, as interpreted and summarized in the report. As referenced before, many of these issues could fall into multiple categories but were only placed in one category. Determining the appropriate category was not important; however, capturing the issue was.
+
+Political Issues:
+
+• State and local EV goals will impact adoption rates.
+
+• Federal policies and changes in the political party in charge will impact adoption rates and investments in EVs; these policies cover numerous areas, including:
+
+n Rebates, incentives, and grants
+
+n Charging infrastructure – locations and funds
+
+n Fossil fuel goals and emission mandates
+
+n Union manufacturing requirements
+
+• City vs. rural EV investment: How will funds be dispersed?
+
+• How will infrastructure be paid for?
+
+n Road tax vs. fuel tax
+
+n More stress on roads because EVs are heavier, which puts more stress on roads
+
+11S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+• EV rebates and grant funds at the local and federal levels are still needed to increase EV adoption.
+
+• Building codes (EV-ready homes):
+
+n Local codes and regulations impact charging network placement.
+
+n Residential codes and ordinances will impact home charging and ED co-op interactions.
+
+• Electrification of public transportation and school buses
+
+• Public rate authorities’ stance on rate design
+
+Economic Issues:
+
+• How will the oil and gas industry be affected locally and nationally?
+
+• Is the total cost of ownership lower for an EV?
+
+n Are upfront costs too high for rural or lower-income individuals?
+
+n Are public charging stations too expensive compared to gas?
+
+• Profit motives for charging stations seem poor unless there is high utilization or grant funds. Should charging stations be viewed as a cost to promote EVs?
+
+• How will utilization of fast charging stations during peak demand affect the cooperative, and how should the cost to integrate a new charging station into the grid be accounted for?
+
+• Broadband is often needed to operate an EV and charging station.
+
+• Are local car dealerships offering and/or knowledgeable about EVs?
+
+n Is there EV maintenance service available?
+
+n How will the expected reduced maintenance and online sale of EVs affect dealerships?
+
+• Will battery production costs continue to decline or increase with the use of rare minerals?
+
+• How should charging equipment installation costs be fairly allocated (home and fast charging network)?
+
+• What impact will EVs have on retail rates and rate design, and is there an EV-specific rate design required to ensure proper expense recovery?
+
+• Is there a secondary market for used EVs?
+
+• Could a “vehicle to grid” option (Ford Lightning) be used to lower a power bill?
+
+• Should investments be made in low-income areas where adoption is expected to be low and slow?
+
+• Will the community lose out on economic development if charging infrastructure isn’t in place?
+
+12S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+Social Issues:
+
+• Rural consumers are expected to be slower to adopt EVs for numerous reasons:
+
+n Less accepting of new technology (especially older generations)
+
+n Perceived or actually more expensive upfront cost
+
+n The political/environmentalist views associated with EVs
+
+n The perceived/real negative impact on coal and/or oil and gas industries
+
+n Few EV truck and SUV options
+
+• Beyond a small number of early adopters, most members and consumers would need more knowledge and education on the EV pros and cons to consider EV adoption, including:
+
+n Improved local dealer knowledge of EVs
+
+n Where and how to get vehicle service/maintenance
+
+n Education regarding technology, charging, costs, efficiencies, and general use
+
+• Current lifestyles are adapted to ICE vehicles, and behavior modifications will have to occur for increased EV adoption:
+
+n Can EVs handle a full day on the farm with heavy loads?
+
+n Refueling only takes five minutes with gas.
+
+n EVs take more planning for a trip.
+
+n Users of ICE vehicles don’t have to be concerned about the time of day that they charge.
+
+n Gas stations have reliable pumps and have reliable availability.
+
+• Fairness – Subsidies to affluent early adopters:
+
+n Who pays for system upgrades?
+
+n Are non-EV owners subsidizing affluent EV owners through rates and peak demand?
+
+n Are state and federal governments leaving rural America behind?
+
+n Who gets access to charging stations at work, and who pays?
+
+• Range anxiety – Is range an actual issue?
+
+n EVs are charged each night and start the day on a “full tank.”
+
+n Phone apps locate charging stations.
+
+n Newer EVs have a similar range as a tank of gas.
+
+13S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+Technological Issues:
+
+• Broadband capacity (that may not be adequate or available) is required to support EV charging infrastructure.
+
+• Hydrogen fuel cell, hybrids, and other technologies could win market share.
+
+• Much more charging infrastructure is needed to support EV adoption, especially in rural areas.
+
+• Charging stations need more uniformity and national standards, as there is no standard cost to public charging.
+
+• There is concern about range fluctuation issues caused by speed, load, wind, hot and cold weather, etc., and many of these issues are more significant in electric co-op communities.
+
+• Charging infrastructure puts a higher priority on demand management capabilities:
+
+n Can an aging grid support higher-intensity use?
+
+n Grid infrastructure advances include batteries.
+
+n Grid and/or circuit limitations may require additional investment.
+
+• Limited EV options/regional needs (4WD) – More truck and SUV options are in development and are expected to hit the market in the near future.
+
+• Cybersecurity associated with charging needs to be considered – Privacy and data access concerns rise with increased technology.
+
+• How will vehicle-to-grid technology affect the grid?
+
+• Desire for faster charging speeds and convenience will likely be required to accelerate adoption.
+
+• Builder and developer design standards (will they evolve to include charging as standard or not) – How to address the installation of in-home charging.
+
+• The high speed of change increases obsolescence potential – Technology change and stranded investment/ obsolescence cost risks may are not small.
+
+• Supporting technology investments may help future EV adoption - Trip planning software (charging station locations, reservations, etc.).
+
+• Should a separate meter be used for EV charging?
+
+Legal Issues:
+
+• Safety of rural first responders when dealing with EVs
+
+• Liability for incidents at charging stations owned by co-ops
+
+• Liability for residential chargers installed by co-ops
+
+• Proper disposal of batteries
+
+14S T R AT E G I C P L A N N I N G A N D
+
+FA C I L I TAT I O N S E R V I C E S
+
+• Tax implications on charging station income:
+
+n Energy sales to nonmembers on chargers owned by co-ops
+
+n Potential application for subsidiary operations
+
+• Charging station regulatory status, and who sets charging fees and rates at the station?
+
+n State regulations (only utilities sell energy, and networks sell access time)
+
+• Regulatory oversight in rate design for EVs
+
+• Liability for a program promoting EVs:
+
+n Crashes and fires
+
+n Increased expenses
+
+n Performance not as advertised
+
+n Warranties and recalls
+
+• How FERC 2222 will impact EV adoption and integration with electric co-ops is not yet known
+
+• Tax implications on charging station income
+
+Environmental Issues:
+
+• EVs will reduce vehicle emissions, but is the sourcing of raw material, energizing of the batteries, and disposal of batteries better for the environment overall?
+
+• Battery production and recycling isn’t environmentally friendly, but battery recycling solutions are in the works.
+
+• Rare earth minerals for batteries implies limited availability and complexity, but is that accurate?
+
+• Do EVs challenge the centralized generation model (for energy production)?
+
+• There is a perception that the push for EV adoption is being driven by environmental regulations and not true economics.
+
+15

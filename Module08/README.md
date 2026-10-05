@@ -1,16 +1,14 @@
 # Module 8: RAG II — Evaluation and Improvement
 
-Prepare PDF text for a RAG knowledge base. Use Gemma 3 to answer questions and check claims, then inspect passages, citations, and missing information.
+Adapted from Serena Kim's Module08 course notebooks to load course inputs directly from this GitHub repository.
 
-## Contents
+| File | Purpose | Runtime |
+| --- | --- | --- |
+| [PDF-to-Text](DSA495-M08-PDF-to-Text.ipynb) | Download the four Module08 PDFs from GitHub, convert to TXT, inspect extraction quality. | CPU |
+| [RAG with Gemma 3](DSA495-M08-RAG-Gemma3.ipynb) | Download the matching TXT files from GitHub, retrieve passages, generate cited answers, inspect retrieval plots. | T4 GPU |
 
-| File | Description |
-| --- | --- |
-| [`DSA495-M08-PDF-to-Text.ipynb`](./DSA495-M08-PDF-to-Text.ipynb) | Convert the M08 PDFs to TXT files and check extraction quality; CPU runtime. |
-| [`DSA495-M08-RAG-Gemma3.ipynb`](./DSA495-M08-RAG-Gemma3.ipynb) | RAG workflow, evidence and answer checks, and optional retrieval plots. |
+The RAG notebook defaults to `KB_COLLECTION = "M08_RAG02"`; set it to `"M07_RAG01"` for the original renewable-energy TXT activity. No Google Drive mounting is required.
 
-## Before You Begin
+**All four Module08 PDFs and extracted TXT files are included.** See [data status and source folders](../data/README.md). The notebooks stop with an actionable message if inputs are missing.
 
-For PDF conversion, use a **CPU runtime** and the four course PDFs in `M08_RAG02`; edit `pdf_folder` to match your Drive folder.
-
-For Gemma RAG, use a **T4 GPU**, accept Gemma's Hugging Face terms, and save a read token as `HF_TOKEN` in Colab Secrets. Set `KB_DIR` to the Module 7 TXT collection or your converted M08 TXT folder. Internet access is required. Run notebook cells in order.
+For Gemma, accept the [model terms](https://huggingface.co/google/gemma-3-4b-it) and store a Hugging Face read token as `HF_TOKEN` in Colab Secrets. Run cells in order. [Colab links and course readings](../README.md).

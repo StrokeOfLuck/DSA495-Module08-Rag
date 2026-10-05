@@ -1,0 +1,619 @@
+Planning for and Managing Indeterminate Electric Loads
+
+AN EMERGING TRENDS SERIES PRESENTED BYDisclaimer: This publication is intended to be an educational resource for CFC and NRECA members—not a complete examination of issues relating to indeterminate loads. The publication contains examples of specific approaches that some electric cooperatives are taking to plan for and manage these kinds of loads. CFC and NRECA do not advocate or promote one approach over another and make no representations, either expressed or implied, about the information contained in this publication, including warranties of accuracy, completeness, or usefulness. CFC and NRECA assume no liability to a cooperative or any third party for damages that may result from use of information contained in this publication. CFC and NRECA are committed to complying fully with all applicable federal and state antitrust laws. Electric cooperatives are (1) independent entities; (2) governed by independent boards of directors; and (3) affected by different member, financial, legal, political, policy, operational and other considerations. For these reasons, each electric cooperative should make its own business decisions on whether and how to use this publication. CFC and NRECA are not attempting to render specific legal or other professional advice in this publication and encourage readers to consult with the cooperative’s attorneys and tax advisers regarding these issues. By receiving this publication, you agree to use the information solely in connection with your internal business purposes.
+
+Planning for and Managing Indeterminate Electric Loads 2 | CFC/NRECAOverview F
+
+or decades, electric cooperatives have served large and indeterminate loads. The boom-or-bust oil and gas industry, for example, is a dominant presence in many cooperative service territories. The industry has contributed significantly to local economic development and aided strong financial performance on cooperative balance sheets. At the same time, it’s highly cyclical and dependent on macroeconomic, geopolitical and other factors that determine whether wells are producing. Electric cooperatives have become very adept at tackling this dynamic—mitigating risks while maximizing business opportunities. And those lessons can be applied to other large, indeterminate loads as well.
+
+DEFINING INDETERMINATE LOADS
+
+Indeterminate loads can be characterized by their size, power usage requirements, growth rate and location on the grid as well as around the country.
+
+ Size: Bigger can be both more or less risky, depending
+
+on the type of load. For example, serving large cryptocurrency mines is generally less risky than energizing small ones because they are more established and less likely to go out of business. However, a large load that suddenly exits a cooperative’s service territory could leave the system with stranded assets.
+
+ Timing: Many newer indeterminate loads such as
+
+Recent years have seen new technologies, societal shifts and public policy changes usher in new, energy-intensive loads in cooperative service territories. Electric vehicles (EV) carry the potential for steady revenue streams and carbon reductions, as well as shifting load away from peak demand periods1. While EVs have the potential to increase a system’s kWh sales and improve load factors, they also present challenges, such as uncertain adoption patterns, unpredictable growth rates and regional differences in demand.
+
+cryptocurrency mines and cannabis grow houses require power as soon as possible. It can be challenging to determine how much energy will be used and when it will be used. Even large loads that are not served directly by a cooperative can pose challenges (see “Case Study: Texas Co-op Sees Wind Farm Launch Crypto Business” on page 15).
+
+ Growth rate: Newer, innovative industries tend to
+
+have a high but unpredictable growth rate, while smaller ventures with less impact can grow quickly.
+
+ Location: Indeterminate loads are often
+
+interconnected to areas of the grid with excess capacity to bring down power costs.
+
+ Regulatory/policy incentives: Regulations and
+
+policies often lag behind technological and societal changes. Loads such as cannabis grow houses will be located in states that have legalized the production and sale of marijuana. Similarly, cryptocurrency miners are likely to gravitate toward states with less regulatory restrictions.
+
+While electric utilities prepare the grid for increased load from EVs and implement system upgrades, other less socially accepted and chancy loads have popped up over the last decade. In certain parts of the country, electric cooperatives are seeing cannabis grow houses and cryptocurrency mines drive up energy needs. What remains unclear is how long these new operations will be around. This publication provides an overview of the risk factors involved in serving these members and examines how some cooperatives are planning for and managing such emerging indeterminate loads.
+
+CFC/NRECA | 3 1. Planning for and Managing Electric Vehicle Loads. November 2021.
+
+https://members.nrucfc.coop/content/cfc-members/en/library/publication.htmlOVERVIEW (continued)
+
+Cannabis Grow Houses
+
+Cannabis grow houses (both greenhouses and warehouses) have continued to proliferate across the United States as policy restrictions have lifted and consumer demand has increased. Currently, a majority of states allow for medicinal or recreational use of cannabis. Similar to cryptocurrency mines, grow houses have high energy requirements.
+
+While the business as a whole has less risk than cryptocurrency mines, it is still an inexperienced industry that carries some risk. Despite state-level laws, the use, sale and possession of cannabis remains a federal crime. The nationwide trend is toward increased legalization, but there is still policy and regulatory uncertainty given the relatively young age of the industry and the nature of the product itself. There is also the risk of community pushback against the proliferation of cannabis grow houses.
+
+States with Legalized Marijuana
+
+WA
+
+ME
+
+MT
+
+ND
+
+MN
+
+OR
+
+VT
+
+NH
+
+ID
+
+WI NY
+
+SD
+
+RI
+
+CT MA
+
+WY
+
+MI
+
+PA
+
+NJ
+
+IA NE
+
+NV
+
+OH
+
+DE
+
+MD
+
+IN
+
+UT
+
+IL
+
+WV
+
+CA
+
+VA
+
+KS
+
+MO CO
+
+KY
+
+NC
+
+TN
+
+OK
+
+AZ
+
+AR
+
+SC
+
+NM
+
+GA AL
+
+MS
+
+LA
+
+TX
+
+HI
+
+FL
+
+AK
+
+State Law
+
+Recreational and Medical Marijuana Use Is Legal Marijuana Use Is Not Legal Medical Marijuana Use, But Not Recreational, Is Legal Note: In total, medical marijuana use is legal in 37 states.
+
+To see a map of state and local laws prohibiting smoking and vaping marijuana,visit https://no-smoke.org/wp-content/uploads/pdf/marijuana-smokefree-laws-map.pdf
+
+Note: American Indian and Alaska Native sovereign Tribal laws are not reflected on this map.
+
+Source: American Nonsmokers' Rights Foundation (October 1, 2022)
+
+Cryptocurrency Mining
+
+Cryptocurrency mining has grown steadily over the past decade in response to higher cryptocurrency prices and increased interest in cryptocurrency applications. Miners use high-powered computers to solve complex equations required to verify, and then encrypt, each transaction before adding it to the digital ledger (a.k.a., the blockchain). Similar to traditional data centers, bitcoin mines often require large amounts of power. As of March 2022, 2,258.49 kilowatt-hours (kWh) was required to verify one bitcoin transaction.
+
+Cryptocurrency mining is an unpredictable industry. It faces significant policy and regulatory uncertainty as well as volatile prices for cryptocurrency. Despite the hype, it is also still unclear whether there is a real-world application for cryptocurrencies.
+
+Planning for and Managing Indeterminate Electric Loads 4 | CFC/NRECAOVERVIEW (continued)
+
+Bitcoin Network Daily Power Demand vs Bitcoin Price
+
+18
+
+$80
+
+16
+
+$70
+
+14
+
+$60
+
+12
+
+$50
+
+10
+
+$40
+
+8
+
+$30
+
+6
+
+($ in Thousands)
+
+$20
+
+4
+
+$10
+
+2
+
+Daily Network Power Demand (GW)
+
+0
+
+$0
+
+Jul.-’21
+
+Jul.-’19
+
+Jul.-’22
+
+Jul.-’20
+
+May-’21
+
+Sep.-’21
+
+May-’19
+
+Jan.-’21 Mar.-’21
+
+Sep.-’19
+
+Nov.-’21
+
+Jan.-’19 Mar.-’19
+
+Nov.-’19
+
+Sep.-’22
+
+Jan.-’22 Mar.-’22
+
+May-’20
+
+Sep.-’20
+
+Jan.-’20 Mar.-’20
+
+Nov.-’20
+
+May-’22
+
+Daily Power Demand BTC Price
+
+Source: Cambridge Center for Alternative Finance, Yahoo Finance
+
+Risk within the industry varies depending on the type of company. Larger companies have less risk of going out of business than smaller companies, but are not completely immune. If the cryptocurrency market collapses, the larger companies may still go out of business, which could have a detrimental impact on a cooperative’s balance sheet.
+
+The industry is complex and difficult to understand. Because it’s so new, policies and regulations have largely not been written or implemented, which creates additional uncertainty for both cryptocurrency miners and electric cooperatives that must manage their loads.
+
+Considerations To Manage the Risk of Indeterminate Loads
+
+Many cooperatives evaluate and manage indeterminate loads as part of their overall risk strategy. A key component of this is to accurately assess the various threats posed to the cooperative and its member-owners. Some questions to consider:
+
+ What risks are associated with the financial health of the prospective business?
+
+ What risks does that business bring to the cooperative (financial, technical, member relations, etc.)?
+
+ What risk does it pose to consumer-members?
+
+Once the various risks have been identified, the next step is to attempt to quantify the threat. For instance, if a cryptocurrency mine or cannabis grow house shuts down or reduces operations, what would be the financial impact to the system?
+
+The ultimate goal is to mitigate the risks and maximize the opportunities of large, indeterminate loads. Additional considerations:
+
+ Research the individual company. What does its balance sheet look like? What is the success rate (based
+
+on similar businesses)?
+
+ Require upfront deposits and payments for any engineering studies, infrastructure upgrades,
+
+contributions-in-aid-of-construction (CIAC) and related interconnection costs.
+
+ Consider various pricing and rate structures that ensure costs are recovered and other consumer-
+
+members are not negatively impacted.
+
+ Consider Power Purchase Agreements (PPAs) to procure wholesale power designated just for
+
+the indeterminate load. This could also mitigate environmental risk if the resource is renewable (see “Case Study: Texas Co-op Sees Wind Farm Launch Crypto Business” on page 15).
+
+ Evaluate the possibility of utilizing the load as a demand-response participant2.
+
+ Ensure that a contingency plan is in place if the load ends service.
+
+ Continuously monitor the business for any issues that may come up, such as power factors or noise.
+
+CFC/NRECA | 5 2. Energy Management Best Practices for Cannabis Greenhouses and Warehouses. December 2020.
+
+https://www.cooperative.com/topics/distributed-energy-resources/Pages/Energy-Management-for-Cannabis-Greenhouses-and-Warehouses.aspxIndeterminate Electric Loads Case StudiesINDETERMINATE ELECTRIC LOADS CASE STUDY
+
+Indian Electric Maps Strategy To Serve Local Cannabis Growers
+
+Indian Electric Cooperative (IEC) is located about an hour northwest of Tulsa and serves seven counties in north-central and northeastern Oklahoma. The distribution cooperative serves 20,100 meters and manages 3,363 miles of line. The bulk of IEC’s power is sourced through Associated Electric and KAMO electric, both generation and transmission (G&T) organizations. IEC has been serving volatile oil and gas loads for decades and recently began working with the cannabis operations incentivized by the legalization of medical marijuana in the state of Oklahoma.
+
+Marijuana Regulations in Oklahoma
+
+Challenges
+
+IEC currently serves roughly 150 cannabis operations with about 15 MW of total load. The cannabis growers understand how to cultivate marijuana but for most, electric power is an afterthought. Serving the cannabis growers posed several challenges for IEC.
+
+ Uncertain Energy Needs
+
+In 2018, Oklahoma legalized medical marijuana, and since then the number of grow houses and marijuana dispensaries has exploded. Low energy prices, cheap land and lack of strict regulations created a Wild West scenario for electric utilities, including many cooperatives serving the energy-intensive loads. There are 8,300 grow operations and 2,300 dispensaries in the Sooner State, more than four times the number of the next-largest cannabis-growing state of Colorado, which legalized marijuana more than a decade earlier.
+
+Manufacturers (Grower/Processor) — 8,300
+
+Distributors (Dispensary) — 2,300
+
+The cannabis farmers required large amounts of power with little lead time. Often, the growers overestimated their needs, making it difficult to accurately size the equipment to serve the load. This was complicated by supply-chain constraints and increased demand from local oil and gas operations amidst rising oil prices.
+
+STATES DISPENSARIES
+
+ Permitting
+
+Oklahoma 2,300
+
+Oregon 560
+
+Colorado 520
+
+Early on, many counties had almost no permitting regulations regarding marijuana production. If the growers were able to find cheap land, there was little to impede their progress, and those counties became inundated with requests for power very quickly.
+
+California 261
+
+ Communication
+
+Washington 103
+
+Alaska 93
+
+Nevada 61
+
+Source: Oklahoma Bureau of Narcotics & Dangerous Drugs Control
+
+Many of the growers came from abroad and did not speak English, making communication difficult. IEC had multiple language barriers, including Russian, Chinese and Spanish. It was a challenge to translate instructions for all of them at the same time, especially since the translator did not necessarily understand the electric industry or the marijuana business.
+
+Planning for and Managing Indeterminate Electric Loads CFC/NRECA | 7INDETERMINATE ELECTRIC LOADS CASE STUDY — IEC (continued)
+
+ Community/Safety
+
+Risk-Mitigation Strategies
+
+Many of the growers erected high walls and employed armed guards at their sites, creating safety concerns in the communities. IEC was also concerned their linemen might be in danger if they showed up to fix an outage. The cooperative also worried about whether the increased power requirements would create outages and increased rates for other members.
+
+After its initial experiences, IEC developed strategies to work with cannabis growers. The state of Oklahoma also now requires more strict permitting. In addition to the Oklahoma Medical Marijuana License, the growers need permits from the Oklahoma Bureau of Investigations. The state also implemented a two- year moratorium on new licenses, which has given Oklahoma systems time to regroup and prepare for new installations.
+
+Benefits
+
+ Assessing Full Construction Costs
+
+For each installation, IEC requires three steps of compensation. The CIAC is first. The impact fee, which is the CIAC for the transmission and substation upgrades, is next. And third is a two-month deposit. These funds have insulated IEC from financial losses due to failed operations. The system also has found that the few operations that went under were quickly replaced with new owners.
+
+Once such businesses are established and costs are covered, the cannabis operations can be good loads with high load factors. IEC reported increased revenue of 13.5 percent this year, which keeps rates down and improves IEC’s financial position. The cooperative also believes that facility upgrades have benefited the entire system as they prepare for other large, indeterminate loads such as EVs, data warehouses and cryptocurrency mining.
+
+Cannabis Grow Facility Usage in IEC’s Service Territory
+
+250,000
+
+200,000
+
+150,000
+
+Daily Usage (kWH)
+
+100,000
+
+50,000
+
+0
+
+Jul.-’21
+
+Jul.-’22
+
+Oct.-’21
+
+Jun.-’21
+
+Apr.-’21
+
+May-’21
+
+Jan.-’22
+
+Oct.-’22
+
+Jun.-’22
+
+Sep.-’21
+
+Dec.-’21
+
+Apr.-’22
+
+Nov.-’21
+
+Aug.-’21
+
+Feb.-’22
+
+May-’22
+
+Sep.-’22
+
+Mar.-’22
+
+Aug.-’22
+
+Source: Indian Electric Cooperative
+
+Planning for and Managing Indeterminate Electric Loads 8 | CFC/NRECAINDETERMINATE ELECTRIC LOADS CASE STUDY — IEC (continued)
+
+We have had many existing services that were converted to grow facilities without prior notification. We found these by instigating a transformer loading check process and identifying where services need to be upgraded.”
+
+— Jeff Pollard, IEC Vice President of Engineering “
+
+ Verifying the Need
+
+ Communicating Well
+
+IEC also started requiring licensed electricians to verify the electricity needs of the cannabis operations. The electricians were verified and required to fill out “load sheets” that IEC could use to determine the power needs. Over time, this reduced the number of oversized applications.
+
+IEC had to respond quickly to the power requests from the cannabis growers. The cooperative learned it was important to plan ahead and communicate expectations clearly. IEC also met with all stakeholders early on, including its board, its G&T and the statewide to brainstorm and come up with a plan.
+
+ Implementing New Fees and Rates
+
+The co-op used the “load sheets” to assess funding and deposits. IEC looked at offering interruptible rates but found they didn’t really fit with the cannabis grow cycles and energy needs. The growers were also willing to pay for using power at peak times. The cooperative is still experimenting with time-of-use rates and may roll out different pricing structures in the future.
+
+ Identifying the Loads
+
+IEC Vice President of Engineering Jeff Pollard recommends that other cooperatives new to the process keep an eye out for added load that has not been communicated to the cooperative. “We have had many existing services that were converted to grow facilities without prior notification. We found these by instigating a transformer loading check process and identifying where services need to be upgraded. This report was rarely looked at prior to this new industry but is now part of our weekly system checks.”
+
+Planning for and Managing Indeterminate Electric Loads CFC/NRECA | 9INDETERMINATE ELECTRIC LOADS CASE STUDY
+
+Colorado Co-ops Have a Decade of Experience Serving Cannabis Growers
+
+Tri-State Generation and Transmission Association (Tri-State) is one of the largest G&T cooperatives in the United States, with 42 utility distribution cooperative and public power district members and three non-members served by 5,665 miles of transmission lines in Colorado, New Mexico, Nebraska and Wyoming. Tri-State’s utility members deliver electricity to more than 1 million consumer-members in an area covering nearly 200,000 square miles. Overall system peak demand topped 3,000 MW in 2019. The G&T has served uncertain oil and gas loads in the past and over the last decade, started serving the cannabis farm operations through several of its distribution cooperatives located in Colorado.
+
+Marijuana Legalization in Colorado
+
+Challenges
+
+In November 2012, Colorado legalized marijuana for adults over age 21 by passing Amendment 64 to the Colorado Constitution. Very quickly, the front range of Colorado east of the mountains became a desirable destination for cannabis growers as the land was cheap and water was readily available (sometimes through hauling).
+
+Since Colorado was one of the first states to legalize marijuana, its cooperatives have unique insights that can help their peers prepare for legal cannabis operations in their own territories. One challenge they’ve seen is that each cannabis farmer has a different approach to growing, creating a great disparity in the load shapes and making it hard to treat the load as a distinct rate class. Avoiding any type of discriminatory practice was also tricky.
+
+ Finding and Evaluating the Load
+
+In the early days, homeowners were allowed a certain amount of plants per adult living in the household. The new rules brought a lot of people from outside of Colorado who would occupy homes and abandoned farmsteads, whatever they could find at a decent price. According to Tri-State Chief Energy Innovations Officer Reg Rudolph, the system meter data revealed instances where a customer would go from a $60 bill to a $6,000 bill over a short period of time. The surge in electric usage caused damage to transformers and other equipment.
+
+ Maintaining Safety, Community
+
+Relations Early on, law enforcement was interested in rooting out illegal operations. Local and federal investigators wanted to see automated meter data without a warrant. Due to privacy issues,
+
+One of the grow houses served by a Tri-State member.
+
+Planning for and Managing Indeterminate Electric Loads 10 | CFC/NRECAINDETERMINATE ELECTRIC LOADS CASE STUDY — Tri-State (continued)
+
+It was like the Wild West in the beginning. They’d buy the parcel property, then have the greenhouse built and then try to connect service.”
+
+— Reg Rudolph, Tri-State Chief Energy Innovations Officer “
+
+Mitigation Strategies
+
+Colorado cooperatives now have 10 years of experience with cannabis farms. In that time, they’ve learned effective strategies to serve these unique loads and maximize the business potential.
+
+cooperatives could not share the usage data, causing some tension within the community. Many of the commercial growers had protective fences and armed guards. Cooperative employees had to approach the premises with caution.
+
+ Financial Security
+
+ Accepting Cash Payments
+
+While many individual states have legalized marijuana, it is still considered a controlled substance under federal law. This means many industry participants don’t maintain federally insured bank accounts and prefer to pay their bills in cash. Since cash payments that exceed $10,000 during a 12-month period must be reported to the Internal Revenue Service, this requires additional cooperative staff resources. In addition, keeping so much cash on hand poses risk of theft and threats to personnel.
+
+While the Colorado systems did not assess additional fees or create a separate rate class, they did ensure their line extension policies were clear, and many required an upfront deposit equal to two times the highest monthly bills from the growers. Rudolph says almost all the cooperatives now have cash counting machines (he remarked that due to the high volumes of cash from the growers, sometimes the office “stinks like weed”). They also make sure the bank deposits are made in a timely manner and the offices are protected by added staff.
+
+ Business as Usual
+
+Benefits/Opportunities
+
+For the most part, the Colorado cooperatives do not get a lot of community pushback regarding the cannabis operations. They worked with the Colorado Rural Electric Association and cooperative boards to ensure proper policies were in place and processes were refined. And while many of the grow operations are large, the unlikely loss of the entire industry would not severely impact Tri-State’s portfolio of load.
+
+While the early days were challenging, most of the bad actors have fallen off and there are more commercial operations that are well capitalized. “It was like the Wild West in the beginning,” Rudolph said. “They’d buy the parcel property, then have the greenhouse built and then try to connect service. After a couple years, it was a more refined process. We were able to do better planning and coordination with the marijuana growers." Tri-State Beneficial Electrification Manager Matt Fitzgibbon sees the industry maturing and consolidating. He also sees opportunities for energy efficiency programs that promote the beneficial use of electricity.
+
+Planning for and Managing Indeterminate Electric Loads CFC/NRECA | 11INDETERMINATE ELECTRIC LOADS CASE STUDY
+
+Iowa Cooperative’s Reasonable Rates Attract Crypto Miners
+
+Grundy County Rural Electric Cooperative (REC) is located in Grundy Center, Iowa, about two hours northeast of the state capital of Des Moines. The distribution cooperative serves 1,742 member-owners and maintains roughly 915 miles of distribution lines. Grundy County REC sources its power from Corn Belt Power Cooperative, a G&T electric cooperative headquartered in Humboldt, Iowa. In the past, Grundy primarily served stable loads such as rural families, farms and other industries. Recently, however, they began serving an industrial-sized cryptocurrency mine that was interested in siting its operations in the cooperative’s territory to take advantage of Grundy County REC’s affordable rates.
+
+Crypto Customer: MiningStore
+
+The cryptocurrency mine is owned and operated by the company MiningStore, which opened in Grundy County REC’s service territory in 2019. Today, the mine has a 6 MW load capacity and houses 1,700 cryptocurrency mining computers.
+
+MiningStore agreed to pay for all connection and construction costs associated with the mine facility.
+
+Planning for and Managing Indeterminate Electric Loads 12 | CFC/NRECAINDETERMINATE ELECTRIC LOADS CASE STUDY — REC (continued)
+
+For us to be able to get the electricity to where the mine wants, MiningStore wouldn’t be able to afford the kWh rate if they ran through peak.”
+
+— Mike Geerdes, Grundy County CEO “
+
+ Connection/Construction
+
+Infrastructure MiningStore agreed to pay for all of the connection and construction costs associated with the mine. This helped build trust between Grundy and the business.
+
+A significant portion of MiningStore’s revenue comes from the hash rate* on the mining computers they own, but also from the housing services they offer customers. The housing services are for individuals looking for infrastructure to mine cryptocurrencies for themselves. MiningStore charges customers a fee to host and run their mining computers for them.
+
+Rate Design
+
+A Strategic Plan
+
+Grundy also implemented an interruptible rate structure for the mine, which was provided by its G&T. This would help the cooperative limit its costs during peak demand, save the miners on their bills and keep rates down for all member-owners. Given the size of the mining load, running the operations during peak could be very costly. Grundy County CEO Mike Geerdes added that “for us to be able to get the electricity to where the mine wants, MiningStore wouldn’t be able to afford the kWh rate if they ran through peak.”
+
+ Interruptible Rates
+
+Given the size of MiningStore’s load, it was important for Grundy County REC to develop a risk-mitigation plan. Grundy was concerned about the risk of stranded assets in the event the company decided to leave the territory or went out of business. The cooperative also needed to determine the best place to locate and connect the mine, and the amount of additional substation capacity that would be required to serve it. Most importantly, Grundy needed to determine who would pay for these grid upgrades and if they could trust the mine to be there for the long term.
+
+ Land
+
+Finding a preferable location for the mine was fairly simple. There was open land next to one of the substations, and given that staff at the cooperative had personal connections to the landowner, they were confident the mine and landlord would be able to work out an agreement over use of the land. Locating the mine so close to a substation also meant connecting the business would be easy.
+
+The interruptible rate structure consisted of a price per kWh plus a demand charge. As long as the mine is off the system during peak, the cooperative will not charge the higher rate. The interruptible schedule allows the mine to run through peak for five months out of the year, with three months in the spring and two in the fall. The mine also gets billed a service fee to help cover some of the substation facility charges. In the three years it has been operating, the mine has only run through peak twice when not allowed. Geerdes noted that “interruptible rates have been a great asset for this load. Otherwise, Grundy would have to monitor the mine’s consumption 12 months out of the year.” *Hash Rate: The number of mining calculations performed per second. It determines the speed at which a computer can mine new units of a cryptocurrency.
+
+Planning for and Managing Indeterminate Electric Loads CFC/NRECA | 13INDETERMINATE ELECTRIC LOADS CASE STUDY — REC (continued)
+
+ Load Data Visibility
+
+Future Expectations
+
+Corn Belt runs a website that gives MiningStore access to demand data in real time. Sharing this demand data helps let the mine know when it needs to power down operations.
+
+Today, Grundy County REC thinks of the cryptocurrency mine as a trusted member for the foreseeable future. The mine has been continuously growing. As more clients look to have MiningStore host their computers, MiningStore keeps requesting more electricity from Grundy. Given that the mine has run steadily over the last three years, even amidst the slumping cryptocurrency prices of late, while also exhibiting year-over-year load growth, the cooperative feels confident the mine will be a member for the foreseeable future.
+
+Recently, MiningStore has been exploring ways of making the on-peak interruption more streamlined. The mine is setting up an automated system that will power down computers during peak demand. That way, company staff will not have to constantly monitor the Corn Belt power demand data. This also will eliminate the risk of running during expensive peak periods.
+
+Planning for and Managing Indeterminate Electric Loads 14 | CFC/NRECAINDETERMINATE ELECTRIC LOADS CASE STUDY
+
+Texas Cooperative Sees Wind Farm Launch Crypto Business
+
+Swisher Electric Cooperative (SEC) is a Tulia, Texas-based distribution cooperative serving members across more than 1,800 square miles in parts of six counties in the Texas Panhandle. The cooperative maintains over 3,500 miles of line and 15 substation facilities in its service territory, which is located in the Southwest Power Pool. SEC is one of 16 distribution member cooperatives that purchase wholesale power from Golden Spread Electric Cooperative, a G&T.
+
+A Unique Situation
+
+Cryptocurrency Mining in Texas
+
+When SEC was first approached in April 2018 about potentially allowing a crypto mining facility to operate within its service territory, cryptocurrency had yet to gain mainstream prominence in The Lone Star State. In fact, SEC was one of the first of Golden Spread’s 16 distribution system members to be approached by a commercial member about allowing this type of facility on its service territory. Today, it is not uncommon for electric cooperatives in Texas to receive requests for cryptocurrency mines or data centers to operate within their service territory.
+
+There are several aspects to SEC’s experience with the cryptocurrency mine that make it a little unusual. For starters, SEC does not serve the load directly, as the mine is not connected to the Swisher distribution system. Instead, the mine draws electricity from a windfarm generating facility within SEC’s service territory. The mine is owned and operated by the same commercial member who owns the windfarm. While SEC’s service territory is fully located in the Southwest Power Pool, the commercial member does business in ERCOT. This required SEC to manage a unique set of risks.
+
+The mine facility draws electricity from a nearby windfarm that is owned by the same commercial member.
+
+Planning for and Managing Indeterminate Electric Loads CFC/NRECA | 15INDETERMINATE ELECTRIC LOADS CASE STUDY — SEC (continued)
+
+The commercial member “basically added another breaker in their switch yard to siphon off the electricity from the windfarm to feed the data center.”
+
+— Dwain Tipton, SEC General Manager
+
+Challenges
+
+Tipton noted. “I’ve got 1,500 members, and a lot of them are elderly and on a fixed income. If this company were to ring up a significant tab with ERCOT, my concern is that we would ultimately be held responsible even though we are not serving the load directly. I didn’t want to expose our members to any risk whatsoever.”
+
+Since SEC was the first distribution system in Golden Spread’s membership to be approached about allowing a cryptocurrency mine to operate in its service territory, there was no established playbook for how to manage risks and maximize opportunities. SEC identified several major challenges:
+
+ Lack of Knowledge About
+
+Solutions
+
+SEC was ultimately able to address these challenges and reach an agreement with the commercial member to allow the mine to operate within its service territory. Doing so required Tipton to tap the knowledge and resources of Golden Spread and approach things a little differently.
+
+ Legal Counsel
+
+Cryptocurrency Swisher Electric General Manager Dwain Tipton admits he knew little about crypto mining when he was first contacted by the owner of the windfarm. “He came to me with this idea that was the wildest thing I’d ever heard,” Tipton said. “He wanted to put a data center behind his wind farm. It was only later I realized ‘data center’ meant crypto mining. This was all new to everyone.”
+
+ Risk Exposure to ERCOT
+
+Tipton received legal counsel and guidance from lawyers at Golden Spread to gain a better understanding of the risks involved and learn how the cooperative could protect itself. “They had a lot more experience with this sort of thing than I did,” Tipton said. “I utilized their attorneys, then hired outside counsel as well.”
+
+ Load Service Agreement
+
+The fact that SEC is located in the Southwest Power Pool and the member does business in ERCOT raised concerns about how to effectively manage risk. “We have a huge ERCOT 345 KV CREZ (Competitive Renewable Energy Zone) transmission line all over our singly certified territory that makes a big loop up through the Texas Panhandle north of Amarillo and takes energy from renewable generation resources to the ERCOT market. A lot of ERCOT is open, retail choice—and we are not.”
+
+One stipulation Tipton made was that the member would not be permitted to take firm power off the CREZ line for the mine. The member agreed, which meant the data center would draw power only from the windfarm. “I think the owner underestimated the frequency of the interruptions,” Tipton said. “It’s not uncommon for the windfarm to stop producing energy multiple times a day.”
+
+Winter Storm Uri provided a cautionary tale about what might happen. “During Winter Storm Uri in February 2021, the market price stayed at the cap of $9,000/MWH for several days,”
+
+Planning for and Managing Indeterminate Electric Loads 16 | CFC/NRECAINDETERMINATE ELECTRIC LOADS CASE STUDY — SEC (continued)
+
+ Security Deposit
+
+While Tipton does not envision a future where the pricing will ever make sense for SEC to serve such members directly, he says there may be other opportunities for loads to draw from nearby renewable generation resources. “We have some other renewable facilities being constructed as we speak, so there’s potential for more that are similar to what we’re seeing now,” he said.
+
+SEC required the member to put down a security deposit in an escrow account upfront, which it can tap if faced with an unexpected financial emergency. “We believe this escrow account can offer some protection if we are faced with an unexpectedly high bill from ERCOT,” Tipton said. “That was my biggest concern. Not so much the demand since they are not directly connected to our system.”
+
+Lessons Learned
+
+ Royalty Payment and Cost
+
+Looking back on how things played out with the member, the only regret Tipton has is how quickly the final agreement was reached. “If I had it to do all over again, knowing what I know now, I would slow down the process a little and not be so quick to settle for a lesser rate,” he said. “In hindsight, we could have negotiated a much better deal. Sometimes being first is not always the best.”
+
+Agreement In exchange for allowing the member to operate the mine facility within its territory, SEC required the member to pay a monthly royalty payment. The arrangement also allows the member to run an operations-and-maintenance facility for the mine, which the cooperative also allows for the member’s windfarm.
+
+All costs were borne by the member. “They basically added another breaker in their switch yard to siphon off the electricity from the windfarm to feed the data center,” Tipton said. “The data center is now running at just over 40 MW. Their contract allows them to run as much as 50 MW.”
+
+Benefits/Opportunities
+
+The most obvious benefit from the arrangement is the additional revenue it brings to the cooperative. “We get 75 to 80 percent of our revenue from irrigation, and irrigation is very weather sensitive,” Tipton noted. “I didn’t want to miss out on an opportunity to supplement that. Even though they are not connected to our system, I felt like we needed to be compensated since they are located within the footprint of our service territory.”
+
+The arrangement has proved to be a successful one. SEC’s experience demonstrates that cooperatives don’t always have to serve these types of loads directly, particularly when there is another generating source nearby.
+
+Planning for and Managing Indeterminate Electric Loads CFC/NRECA | 17Notes
+
+Planning for and Managing Indeterminate Electric Loads 18 | CFC/NRECAWe hope you find the information contained in this joint CFC–NRECA publication valuable. If your cooperative has a story to share about planning for and managing indeterminate loads, we would love to hear about it. Contact Jan Ahlen, CFC VP, Utility Research & Policy at: jan.ahlen@nrucfc.coop and Allison Hamilton, NRECA Director, Markets and Rates Business and Technology Strategies at: Allison.hamilton@nreca.coop.
+
+CFC and NRECA are here to serve our member-owners.
+
+Planning for and Managing Indeterminate Electric Loads CFC/NRECA | 1920701 Cooperative Way Dulles, Virginia 20166 703-467-1800 www.nrucfc.coop
+
+National Rural Electric Cooperative Association 4301 Wilson Blvd, Arlington VA 22203 703-907-5500 www.nreca.coop
+
+© 2022 CFC and NRECA. All Rights Reserved. November 2022.
+
+CFC and NRECA are equal opportunity providers.

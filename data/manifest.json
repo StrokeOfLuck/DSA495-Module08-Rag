@@ -1,0 +1,47 @@
+{
+  "collection": "M08_RAG02",
+  "source": "User-supplied course PDFs, October 5, 2026",
+  "extraction": {
+    "library": "PyMuPDF",
+    "version": "1.26.6",
+    "method": "Sorted text blocks; whitespace normalization; blank lines between blocks; form-feed page separators"
+  },
+  "files": [
+    {
+      "filename": "D00000-ElectricVehicleScenarioAnalysisWorkshopSeries.pdf",
+      "bytes": 6661645,
+      "pages": 15,
+      "words": 5199,
+      "sha256": "25fe53531c543e7741598428991ca2b122053fcbabfb9742004bafcbe88e4c26",
+      "git_blob_sha": "1320f9cb429e7bb9f3a54cf884e668add0d796a4",
+      "text_path": "data/M08_RAG02/text/D00000-ElectricVehicleScenarioAnalysisWorkshopSeries.txt"
+    },
+    {
+      "filename": "D00001-TheEraOfFlatPowerDemandIsOver.pdf",
+      "bytes": 2096755,
+      "pages": 29,
+      "words": 6083,
+      "sha256": "d41807f23cb9a9d780d387b689910091006e05f304e7a7cfd7b3f31fe9f9dc52",
+      "git_blob_sha": "83673cb5109c039c681a2f421dafada7d00eb6ec",
+      "text_path": "data/M08_RAG02/text/D00001-TheEraOfFlatPowerDemandIsOver.txt"
+    },
+    {
+      "filename": "D00002-CharacteristicsAndRiskOfEmergingLargeLoads(1).pdf",
+      "bytes": 3430203,
+      "pages": 49,
+      "words": 18336,
+      "sha256": "027a21b64a80ff0f1db4da3d3cc39089560eee0e33a87aedd9772a8683386f09",
+      "git_blob_sha": "003c2f2ba008546592438c1b2ce6bd6fd5b8e770",
+      "text_path": "data/M08_RAG02/text/D00002-CharacteristicsAndRiskOfEmergingLargeLoads(1).txt"
+    },
+    {
+      "filename": "D00003-PlanningForAndManagingInterminateElecricLoads.pdf",
+      "bytes": 4115557,
+      "pages": 20,
+      "words": 5828,
+      "sha256": "b2caffdd39ec8efc8cd16f40d9a235a79bdbc580eeb762854d5506589da7542b",
+      "git_blob_sha": "8d6be8029a4b69889517778c777ea775de3cef95",
+      "text_path": "data/M08_RAG02/text/D00003-PlanningForAndManagingInterminateElecricLoads.txt"
+    }
+  ]
+}
