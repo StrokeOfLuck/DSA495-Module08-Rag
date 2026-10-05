@@ -12,3 +12,8 @@ The RAG notebook defaults to `KB_COLLECTION = "M08_RAG02"`; set it to `"M07_RAG0
 **All four Module08 PDFs and extracted TXT files are included.** See [data status and source folders](../data/README.md). The notebooks stop with an actionable message if inputs are missing.
 
 For Gemma, accept the [model terms](https://huggingface.co/google/gemma-3-4b-it) and store a Hugging Face read token as `HF_TOKEN` in Colab Secrets. Run cells in order. [Colab links and course readings](../README.md).
+
+
+## Interactive document explorer
+
+[Open the Module08 HTML page](https://htmlpreview.github.io/?https://github.com/StrokeOfLuck/DSA495-Module08-Rag/blob/main/index.html) to type questions, inspect exact source passages, and work through the notebook activities. [Repository overview](../README.md).

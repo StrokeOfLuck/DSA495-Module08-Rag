@@ -2,6 +2,14 @@
 
 Sean Ryan's copy of the [Module08 course materials](https://github.com/SerenaYKim/DSA495-TextAnalysis/tree/master/Module08), taught by Serena Kim at NC State.
 
+## Interactive document explorer
+
+**[Open the Module08 HTML page](https://htmlpreview.github.io/?https://github.com/StrokeOfLuck/DSA495-Module08-Rag/blob/main/index.html)** · [HTML source](index.html)
+
+Type any question, inspect verbatim retrieved passages, and open their exact source context, including the original PDF page. The page follows Sean's portfolio style and includes notebook activity notes, editable prompts, citation checks, and a notes download.
+
+Browser retrieval uses BM25. Run Gemma 3 in the linked Colab notebook for generated answers and MiniLM semantic retrieval. The page also includes PDF-to-text checks and a link to that notebook. The source text is embedded for offline search; the PDF preview and external links need internet access. Rebuild the embedded text when repository data changes.
+
 ## Open the notebooks
 
 | Notebook | View on GitHub | Run in Google Colab | Runtime |
